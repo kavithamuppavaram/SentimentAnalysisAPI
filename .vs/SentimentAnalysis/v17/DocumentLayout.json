@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\services\\sentimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\services\\sentimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\sentimentmodel.mbconfig||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\sentimentmodel.mbconfig||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\sentimentmodel.evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\sentimentmodel.evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\sentimentmodel.training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\sentimentmodel.training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\sentimentmodel.consumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\sentimentmodel.consumption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\sentimentanalysis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\sentimentanalysis.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\controllers\\sentimentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\models\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\models\\sentimentprediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\models\\sentimentinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\models\\sentimentinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\sentimentanalysis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\sentimentanalysis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|d:\\kavitha\\dotnettest\\sentimentanalysis\\sentimentanalysis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BF9EF8-ED66-4616-BF9E-AA14FEBCFCF4}|SentimentAnalysis\\SentimentAnalysis.csproj|solutionrelative:sentimentanalysis\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Program.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\Program.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Program.cs",
+              "RelativeToolTip": "SentimentAnalysis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:45:34.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SentimentModel.consumption.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentModel.consumption.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\SentimentModel.consumption.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentModel.consumption.cs",
+              "RelativeToolTip": "SentimentAnalysis\\SentimentModel.consumption.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAH8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:07:09.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SentimentModel.evaluate.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentModel.evaluate.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\SentimentModel.evaluate.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentModel.evaluate.cs",
+              "RelativeToolTip": "SentimentAnalysis\\SentimentModel.evaluate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAEwCYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:07:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SentimentModel.training.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentModel.training.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\SentimentModel.training.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentModel.training.cs",
+              "RelativeToolTip": "SentimentAnalysis\\SentimentModel.training.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:07:36.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SentimentModel.mbconfig",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentModel.mbconfig",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\SentimentModel.mbconfig",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentModel.mbconfig",
+              "RelativeToolTip": "SentimentAnalysis\\SentimentModel.mbconfig",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAOsAAAAQAAAAAAAAAA==",
+              "Icon": "7f5c38b0-f0bc-4551-a9a8-b4f467cc4670.000012|",
+              "WhenOpened": "2025-11-05T13:06:44.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SentimentService.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Services\\SentimentService.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\Services\\SentimentService.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Services\\SentimentService.cs",
+              "RelativeToolTip": "SentimentAnalysis\\Services\\SentimentService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:16:59.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SentimentAnalysis.http",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.http",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\SentimentAnalysis.http",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.http",
+              "RelativeToolTip": "SentimentAnalysis\\SentimentAnalysis.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-05T10:54:42.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SentimentAnalysis\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:03:12.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SentimentController.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Controllers\\SentimentController.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\Controllers\\SentimentController.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Controllers\\SentimentController.cs",
+              "RelativeToolTip": "SentimentAnalysis\\Controllers\\SentimentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:16:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SentimentPrediction.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Models\\SentimentPrediction.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\Models\\SentimentPrediction.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Models\\SentimentPrediction.cs",
+              "RelativeToolTip": "SentimentAnalysis\\Models\\SentimentPrediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:17:14.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SentimentInput.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Models\\SentimentInput.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\Models\\SentimentInput.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\Models\\SentimentInput.cs",
+              "RelativeToolTip": "SentimentAnalysis\\Models\\SentimentInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:07:01.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SentimentAnalysis",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\SentimentAnalysis.csproj",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
+              "RelativeToolTip": "SentimentAnalysis\\SentimentAnalysis.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T10:54:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\appsettings.Development.json",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\appsettings.Development.json",
+              "RelativeToolTip": "SentimentAnalysis\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T11:06:43.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SentimentAnalysis\\WeatherForecast.cs",
+              "ToolTip": "D:\\kavitha\\DotnetTest\\SentimentAnalysis\\SentimentAnalysis\\WeatherForecast.cs",
+              "RelativeToolTip": "SentimentAnalysis\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T11:00:56.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
